@@ -21,5 +21,6 @@ Device ID: 1WMHH8........(14char)
 
 ```
 
-Device data incs?
+Device data (dump) incs?
+'Deleted Device Data'
 
