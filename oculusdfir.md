@@ -16,7 +16,10 @@ pairing code:
 
 
 
-Model: Oculus Quest 2
+Device: Oculus Quest 2
 Device ID: 1WMHH8........(14char)
 
 ```
+
+Device data incs?
+
